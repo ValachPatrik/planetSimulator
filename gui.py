@@ -1,3 +1,6 @@
+# Patrik Valach 
+# 2021
+
 from typing import List, Optional
 import tkinter
 import time
