@@ -10,7 +10,7 @@ After longer run times the simulation is prone to big errors, for it uses basic 
 
 Generates n planets of the same mass, that move synchronously around each other. Can be easily used to create custom systems to simulate your own planet configurations.
 
-<img src="https://user-images.githubusercontent.com/82080194/224310055-06c95684-231f-41f8-bdb9-2563086b243f.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/82080194/224310055-06c95684-231f-41f8-bdb9-2563086b243f.png" width=40% height=40%>
 
 ## Solar System
 
