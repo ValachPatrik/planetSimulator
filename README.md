@@ -16,6 +16,6 @@ Generates n planets of the same mass, that move synchronously around each other.
 
 Constructs a simulation of our solar system. Generates the first x number of planets that is chosen by the user. The simulation is set up to closely observe our inner solar system. But can be modified by changing the scale to accomodate the whole solar system.
 
-![image](https://user-images.githubusercontent.com/82080194/224310162-763bd231-023e-4825-abda-73b11ea9b408.png)
+<img src="https://user-images.githubusercontent.com/82080194/224310162-763bd231-023e-4825-abda-73b11ea9b408.png" width=40% height=40%>
 
-![image](https://user-images.githubusercontent.com/82080194/224310307-5745ff5f-271a-4d72-875a-c88eb2c9af1a.png)
+<img src="https://user-images.githubusercontent.com/82080194/224310307-5745ff5f-271a-4d72-875a-c88eb2c9af1a.png" width=40% height=40%>
